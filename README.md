@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**hustler0484/hustler0484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there! I'm **Sameer**, a passionate **Data Science Enthusiast** 🚀 diving deep into the world of technology! 💻 Currently learning Python 🐍, **DBMS** 📊, **HTML** & **CSS** 🌐, **React** ⚛️, **Flask** 🔥, **Django** 🐍 and more! I’m always on the lookout to enhance my skills and build amazing things. 💡
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I thrive on challenges, and hackathons are where I truly come alive! 🔥 Whether it’s brainstorming with teammates or solving complex problems, I’m all in. 🤖
+
+Eager to learn, grow, and collaborate with like-minded innovators! Let’s connect and create something awesome! 💪✨
+
+---
+
+
+### 💼 **Skills**
+- **Web Development** 🌐
+- **DBMS** 📊
+- **Community Management** 🤝
+
+
+- 📫 How to reach me: Sameer kumar (Linkedin) , Sam_the_explorer(Instagram)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I code by day, hack by night, and survive on pizza and caffeine! 🍕☕💻
+
+
+
